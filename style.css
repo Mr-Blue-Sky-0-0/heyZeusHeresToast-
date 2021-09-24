@@ -3,7 +3,6 @@ body {
     margin: 0px;
 }
 
-
 .row {
     width: 100%;
     display: flex;
@@ -38,6 +37,7 @@ body {
     padding-top: 7%;
     padding-bottom: 7%;
 }
+
 /*first section: name and logo*/
 #nameAndLogo {
     background-color: background: #270101;
