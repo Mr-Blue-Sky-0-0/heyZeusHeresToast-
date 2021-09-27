@@ -38,6 +38,11 @@ body {
     padding-bottom: 7%;
 }
 
+h1 {
+    font-family: 'Cormorant Garamond', serif;
+    margin: 0;
+}
+
 /*first section: name and logo*/
 #nameAndLogo {
     background-color: background: #270101;
@@ -48,18 +53,39 @@ body {
     font-family: "Augusta";
 }
 .heyZeusTitle {
-    font-family: 'Cormorant Garamond', serif;
     font-size: 100px;
-    margin: 0;
 }
 .heyZeusPara {
     font-size: 24px;
     font-weight: bold;
 }
 
+/*second section: about*/
 
+#aboutSection {
+    background: #FFF0F0;
+    background: -webkit-linear-gradient(bottom, #FFF0F0, #270101);
+    background: -moz-linear-gradient(bottom, #FFF0F0, #270101);
+    background: linear-gradient(to top, #FFF0F0, #270101);
+    text-align: center;
+}
+.textBackground {
+    width: auto;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-clip: content-box;
+    background-color: floralwhite;
+}
 
-
+.about {
+    font-size: 60px;
+    padding: 20px;
+}
+.aboutParagraph {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+}
 
 
 
