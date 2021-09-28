@@ -1,6 +1,7 @@
 /*DEFAULTS*/
 body {
     margin: 0px;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .row {
@@ -87,7 +88,41 @@ h1 {
     padding: 20px;
 }
 
+/*theird section: learn more */
 
+#learnMoreSection{
+    text-align: center;
+    background: #FFFAF0;
+background: -webkit-linear-gradient(top, #FFF0F0, #FFFAF0);
+background: -moz-linear-gradient(top, #FFF0F0, #FFFAF0);
+background: linear-gradient(to bottom, #FFF0F0, #FFFAF0);
+}
+
+h1.learnMoreHeader {
+    font-size: 100px;
+    color: darkred;
+    margin-bottom: 5%;
+}
+
+div.box {
+    box-shadow: 0px 0px 0px 5px black;
+    height: 400px;
+    margin: 20px;
+}
+
+div.row div.col-4 h1 {
+    font-size: 50px;
+}
+
+div.row div.col-4 p {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+div.row div.col-4 button {
+    box-sizing: content-box;
+    font-size: 40px;
+}
 
 
 
