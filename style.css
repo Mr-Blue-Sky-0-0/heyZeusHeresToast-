@@ -44,6 +44,8 @@ h1 {
     margin: 0;
 }
 
+/*MAIN PAGE: INDEX*/
+
 /*first section: name and logo*/
 #nameAndLogo {
     background-color: background: #270101;
@@ -93,9 +95,9 @@ h1 {
 #learnMoreSection{
     text-align: center;
     background: #FFFAF0;
-background: -webkit-linear-gradient(top, #FFF0F0, #FFFAF0);
-background: -moz-linear-gradient(top, #FFF0F0, #FFFAF0);
-background: linear-gradient(to bottom, #FFF0F0, #FFFAF0);
+    background: -webkit-linear-gradient(top, #FFF0F0, #FFFAF0);
+    background: -moz-linear-gradient(top, #FFF0F0, #FFFAF0);
+    background: linear-gradient(to bottom, #FFF0F0, #FFFAF0);
 }
 
 h1.learnMoreHeader {
