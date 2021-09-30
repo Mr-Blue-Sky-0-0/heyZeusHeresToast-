@@ -126,8 +126,18 @@ div.row div.col-4 button {
     font-size: 40px;
 }
 
+/*second page: clips*/
 
+#momentsTitleBackground {
+    background: #253C76;
+    background: -webkit-linear-gradient(bottom, #253C76, #5695B6);
+    background: -moz-linear-gradient(bottom, #253C76, #5695B6);
+    background: linear-gradient(to top, #253C76, #5695B6);
+}
 
-
+.heyZeusMomentsTitle {
+    font-size: 100px;
+    color: lightgray;
+}
 
 
