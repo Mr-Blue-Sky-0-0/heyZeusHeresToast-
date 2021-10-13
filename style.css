@@ -42,6 +42,10 @@ body {
 h1 {
     font-family: 'Cormorant Garamond', serif;
     margin: 0;
+    font-size: 70px;
+}
+p {
+    font-size: 30px;
 }
 
 /*MAIN PAGE: INDEX*/
@@ -130,14 +134,41 @@ div.row div.col-4 button {
 
 #momentsTitleBackground {
     background: #253C76;
-    background: -webkit-linear-gradient(bottom, #253C76, #5695B6);
-    background: -moz-linear-gradient(bottom, #253C76, #5695B6);
-    background: linear-gradient(to top, #253C76, #5695B6);
+    background: -webkit-linear-gradient(bottom, #5695B6, #253C76);
+    background: -moz-linear-gradient(bottom, #5695B6, #253C76);
+    background: linear-gradient(to top, #5695B6, #253C76);
 }
 
 .heyZeusMomentsTitle {
     font-size: 100px;
     color: lightgray;
 }
+
+#gdqSection {
+    background: #5695B6;
+    background: -webkit-linear-gradient(top, #5695B6, #E0F6FF);
+    background: -moz-linear-gradient(top, #5695B6, #E0F6FF);
+    background: linear-gradient(to bottom, #5695B6, #E0F6FF);
+    text-align: center;
+}
+
+.gdqTitle{
+    font-size: 70px;
+    
+}
+
+#zeusOnGDQ {
+    background: #E0F6FF;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
 
 
